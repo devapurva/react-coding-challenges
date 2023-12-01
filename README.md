@@ -16,3 +16,4 @@ React Coding Challenges
 4. [10 React Js Coding Challenges](https://dev.to/frontendengineer/10-reactjs-coding-exercises-with-codepen-exercise-and-solution--22k7)
 5. [https://coderbyte.com/interview-kit/react](https://coderbyte.com/interview-kit/react)
 6. [Real World Challenges/Mini Projects](https://dev.to/profydev/real-world-react-coding-challenges-for-your-interview-preparation-22pm?comments_sort=latest)
+7. [https://reactjsexample.com/tag/challenge/](https://reactjsexample.com/tag/challenge/)
